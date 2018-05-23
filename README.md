@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/murari-goswami/blitz.svg?branch=feature%2Fjpa-entities)](https://travis-ci.org/murari-goswami/blitz)
-![apm](https://img.shields.io/apm/l/vim-mode.svg)
+![license MIT](https://img.shields.io/apm/l/vim-mode.svg)
 
 
 
