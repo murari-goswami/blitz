@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/murari-goswami/blitz.svg?branch=feature%2Fjpa-entities)](https://travis-ci.org/murari-goswami/blitz)
+[![Latest Stable Version](https://poser.pugx.org/murari-goswami/murari-goswami/version)](https://packagist.org/packages/murari-goswami/murari-goswami)
 
 
 ## Usage
