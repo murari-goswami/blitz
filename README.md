@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/murari-goswami/blitz.svg?branch=feature%2Fjpa-entities)](https://travis-ci.org/murari-goswami/blitz)
-![apm](https://img.shields.io/apm/l/vim-mode.svg)
+[![Build Status](http://circleci-badges-max.herokuapp.com/img/:murari-goswami/:blitz/:master?token=:circle-ci-token)](https://circleci.com/gh/:owner/:repo/tree/:branch)
+
 
 
 
